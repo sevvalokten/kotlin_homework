@@ -1,0 +1,58 @@
+// Ödev 1: Değişken Tanımlamaları
+
+
+var sehir: String = "İstanbul"
+var ulke: String = "Türkiye"
+var telefon: String = "+90 532 123 4567"
+var postaKodu: String = "34000"
+var email: String = "sevvalokten1@gmail.com"
+var meslek: String = "Yazılım Öğrencisi"
+var stokMiktari: Int = 150
+var musteriAdi: String = "Şevval Ökten"
+var bakiye: Double = 1250.75
+var dogumGunu: String = "1995-05-12"
+var maas: Double = 18000.0
+var medeniDurum: String = "Bekar"
+var urunYorum: String = "Ürün çok kaliteli."
+
+var odemeTarihi: String = "2025-04-30"
+var odeme: Double = 599.99
+var siparisAdeti: Int = 3
+var arabaModeli: String = "Tesla Model 3"
+var kitapAdi: String = "Kotlin Programlama"
+var yayinlanmaTarihi: String = "2023-09-15"
+var indirimMiktari: Double = 50.0
+var odaSayisi: Int = 2
+
+var enlem: Double = 41.0082
+var boylam: Double = 28.9784
+
+var urunAdi: String = "Saç Şekillendirici"
+var yemekFiyati: Double = 120.50
+var marka: String = "Apple"
+var muzikAdi: String = "Imagine"
+var videoSuresi: Int = 240 
+var urunPuani: Double = 4.5
+var resimAdi: String = "urun_fotografi.jpg"
+var dosyaFormati: String = "JPEG"
+
+var renk: String = "Mavi"
+var renkKodu: String = "#0000FF"
+
+var telefonModeli: String = "iPhone 15 pro"
+var ekranBoyutu: Double = 6.1 // inç cinsinden
+var agirlik: Double = 174.0 // gram cinsinden
+
+var ulusalGun: String = "23 Nisan"
+var tatilGunu: String = "1 Mayıs"
+var rezervasyonTarihi: String = "2025-07-10"
+
+var sokakAdi: String = "Cumhuriyet Caddesi"
+var otobusHatti: String = "HT19"
+
+var kalanDakika: Int = 15
+var takipKodu: String = "ABC123456789"
+var kuponSuresi: Int = 30 // gün cinsinden
+var kuponKodu: String = "INDIRIM50"
+
+var faturaAdresi: String = "Esenyurt, İstanbul"
